@@ -1,3 +1,5 @@
 # butterfly-utils
 Collection Utils for java
-provides fluent static methods to create Maps,lists & sets
+Provides fluent static methods to create Maps,lists & sets
+Several versions available for java7 and java8
+
